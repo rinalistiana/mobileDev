@@ -1,0 +1,2 @@
+com/rina/uts_18090090/BuildConfig.java
+ com.rina.uts_18090090.BuildConfig
